@@ -34,7 +34,7 @@ Source: https://github.com/anqoVoube/showcase
 """
     SECOND_PROJECT = """Бот, который Вы сейчас используете. Написан на pyTelegramBotAPI.
 
-Source: ...
+Source: https://github.com/anqoVoube/mida-bot
 
 """
     THIRD_PROJECT = """Бот, который работает с системой жертвы. Написан на pyTelegramBotAPI. Его работой являются:
